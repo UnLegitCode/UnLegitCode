@@ -61,7 +61,7 @@
 * **Telegram:** [@UnLegit](https://t.me/UnLegit)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=UnLegitCode&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
 </div>
 
 <p align="center">
