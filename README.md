@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&ved=0CBUQjRxqFwoTCOjh3rn4rJIDFQAAAAAdAAAAABAI&opi=89978449" />
+</p>
+
 <div align="center">
   <a href="https://t.me/UnLegit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -33,6 +37,7 @@
     <td align="top">
       • Java<br>
       • Kotlin
+      • Python
     </td>
     <td align="top">
       • Spring Boot<br>
