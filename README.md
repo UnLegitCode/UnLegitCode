@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/UnLegit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ZubMax2005@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=true&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UnLegitCode&theme=dracula&no-frame=true&column=7" alt="trophies" />
 </div>
 
 ---
