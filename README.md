@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hello,%20I'm%20Maxim%20👋&fontSize=70" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://t.me/UnLegit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
@@ -10,12 +6,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UnLegitCode&theme=dracula&no-frame=true&column=7" alt="trophies" />
-</div>
 
 ---
 
