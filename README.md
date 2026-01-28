@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gifs-aesthetic%2F896913177658%2F&ved=0CBUQjRxqFwoTCOjh3rn4rJIDFQAAAAAdAAAAABAI&opi=89978449" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2gwNTU5ZWlmZ3QxNzFxaXhqYjV2dnpvejNsa29oYjF6NGJ4N2NlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif" />
 </p>
 
 <div align="center">
